@@ -30,9 +30,9 @@ wasd(움직임) e(폭탄) 방향키(눈물 발사) 스페이스바 (아이템 �
 캐릭터 생성 , 움직임, 아이템 적용, BGM 넣기. 
 ![20200925_134658](https://user-images.githubusercontent.com/70678897/94227527-abdda280-ff35-11ea-9975-2be0f5d46b79.png)
 ![20200925_134722](https://user-images.githubusercontent.com/70678897/94227533-aed89300-ff35-11ea-8895-f8d4364c3ead.png)
-![슬라이드5](https://user-images.githubusercontent.com/70678897/95649159-10445880-0b17-11eb-8f06-4570ced00b46.JPG)
-![슬라이드6](https://user-images.githubusercontent.com/70678897/95649160-11758580-0b17-11eb-9871-db03f1ad8baf.JPG)
+
 ![슬라이드3](https://user-images.githubusercontent.com/70678897/95649161-11758580-0b17-11eb-82c7-223b7897b0a5.JPG)
 ![슬라이드4](https://user-images.githubusercontent.com/70678897/95649163-120e1c00-0b17-11eb-85b1-a4c771ec687d.JPG)
-
+![슬라이드5](https://user-images.githubusercontent.com/70678897/95649159-10445880-0b17-11eb-8f06-4570ced00b46.JPG)
+![슬라이드6](https://user-images.githubusercontent.com/70678897/95649160-11758580-0b17-11eb-9871-db03f1ad8baf.JPG)
 
